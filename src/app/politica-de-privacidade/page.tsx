@@ -8,8 +8,7 @@
       <div className="hr" />
 
       <p className="p" style={{ whiteSpace: "pre-wrap" }}>
-        Coletamos apenas os dados necessários para atender você (ex.: nome e WhatsApp)
-        quando você envia formulários.
+        Coletamos apenas os dados necessários para atender você (ex.: nome e WhatsApp) quando você envia formulários.
         {"\n\n"}
         Não divulgamos endereço completo dos imóveis publicamente — apenas bairro e cidade.
         {"\n\n"}
