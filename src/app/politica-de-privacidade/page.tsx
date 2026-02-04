@@ -1,15 +1,11 @@
-   import React from "react";
-
-export default function Page() {
+   export default function Page() {
   return (
-    <div className="card" style={{ padding: 18 }}>
-      <h1 className="h1" style={{ fontSize: 28 }}>
-        Política de Privacidade
-      </h1>
+    <main style={{ padding: 18 }}>
+      <h1 style={{ fontSize: 28 }}>Política de Privacidade</h1>
 
-      <div className="hr" />
+      <hr />
 
-      <p className="p" style={{ whiteSpace: "pre-wrap" }}>
+      <p style={{ whiteSpace: "pre-wrap" }}>
         Coletamos apenas os dados necessários para atender você (ex.: nome e WhatsApp)
         quando você envia formulários.
 
@@ -19,6 +15,6 @@ export default function Page() {
         {"\n\n"}
         Se quiser solicitar remoção ou correção de dados, entre em contato pelo WhatsApp.
       </p>
-    </div>
+    </main>
   );
 }
