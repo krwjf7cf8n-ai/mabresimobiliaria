@@ -1,4 +1,4 @@
-export default function Page() {
+export default function Page() { 
   return (
     <main style={{ padding: 18 }}>
       <h1 style={{ fontSize: 28 }}>Sobre a Mabres</h1>
