@@ -8,11 +8,9 @@
       <p style={{ whiteSpace: "pre-wrap" }}>
         Coletamos apenas os dados necessários para atender você (ex.: nome e WhatsApp)
         quando você envia formulários.
-
         {"\n\n"}
         Não divulgamos endereço completo dos imóveis publicamente — apenas bairro e cidade.
-
-        {"\n\n"}
+       {"\n\n"}
         Se quiser solicitar remoção ou correção de dados, entre em contato pelo WhatsApp.
       </p>
     </main>
